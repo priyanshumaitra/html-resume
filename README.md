@@ -2,7 +2,7 @@
 
 A full-stack developer's resume, a single-page website built with **HTML**. It’s lightweight, fast, and easy to customize.
 
-[Live Link](#)
+
 
 <img width="1726" height="1828" alt="screencapture-127-0-0-1-5500-resume-html-2026-01-30-20_13_14" src="https://github.com/user-attachments/assets/4a8093a3-9fcc-4928-b019-a3aece676af1" />
 
