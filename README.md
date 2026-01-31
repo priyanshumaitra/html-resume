@@ -55,7 +55,7 @@ Since this is static HTML, you can deploy it anywhere:
 ```
 html-resume
 ├─ README.md
-└─ resume.html
+└─ index.html
 ```
 
 
